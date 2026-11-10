@@ -1,0 +1,3674 @@
+{
+  "url": "https://www.thgoplus.com.br/clientes/",
+  "status": "200",
+  "headers": {},
+  "tags": [
+    {
+      "tag": "html",
+      "attrs": {
+        "lang": "pt-BR"
+      }
+    },
+    {
+      "tag": "head",
+      "attrs": {}
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "charset": "UTF-8"
+      }
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "name": "viewport",
+        "content": "width=device-width,initial-scale=1,user-scalable=no"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "shortcut icon",
+        "type": "image/x-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "apple-touch-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "profile",
+        "href": "https://gmpg.org/xfn/11"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "pingback",
+        "href": "https://www.thgoplus.com.br/xmlrpc.php"
+      }
+    },
+    {
+      "tag": "title",
+      "attrs": {}
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "name": "robots",
+        "content": "max-image-preview:large"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "dns-prefetch",
+        "href": "//fonts.googleapis.com"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "Feed para THGO Plus »",
+        "href": "https://www.thgoplus.com.br/feed/"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "Feed de comentários para THGO Plus »",
+        "href": "https://www.thgoplus.com.br/comments/feed/"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "alternate",
+        "title": "oEmbed (JSON)",
+        "type": "application/json+oembed",
+        "href": "https://www.thgoplus.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thgoplus.com.br%2Fclientes%2F"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "alternate",
+        "title": "oEmbed (XML)",
+        "type": "text/xml+oembed",
+        "href": "https://www.thgoplus.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thgoplus.com.br%2Fclientes%2F&format=xml"
+      }
+    },
+    {
+      "tag": "style",
+      "attrs": {
+        "id": "wp-img-auto-sizes-contain-inline-css",
+        "type": "text/css"
+      }
+    },
+    {
+      "tag": "style",
+      "attrs": {
+        "id": "wp-emoji-styles-inline-css",
+        "type": "text/css"
+      }
+    },
+    {
+      "tag": "style",
+      "attrs": {
+        "id": "wp-block-library-inline-css",
+        "type": "text/css"
+      }
+    },
+    {
+      "tag": "style",
+      "attrs": {
+        "id": "classic-theme-styles-inline-css",
+        "type": "text/css"
+      }
+    },
+    {
+      "tag": "style",
+      "attrs": {
+        "id": "global-styles-inline-css",
+        "type": "text/css"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "cmplz-general-css",
+        "href": "https://www.thgoplus.com.br/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1779200318",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "mediaelement-css",
+        "href": "https://www.thgoplus.com.br/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "wp-mediaelement-css",
+        "href": "https://www.thgoplus.com.br/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-default-style-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/style.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-qode-font_awesome-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/css/font-awesome/css/font-awesome.min.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-qode-font_elegant-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/css/elegant-icons/style.min.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-qode-linea_icons-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/css/linea-icons/style.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-qode-dripicons-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/css/dripicons/dripicons.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-qode-kiko-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/css/kiko/kiko-all.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-qode-font_awesome_5-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/css/font-awesome-5/css/font-awesome-5.min.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-stylesheet-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/css/stylesheet.min.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "style",
+      "attrs": {
+        "id": "bridge-stylesheet-inline-css",
+        "type": "text/css"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-print-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/css/print.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-style-dynamic-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/css/style_dynamic.css?ver=1741812484",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-responsive-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/css/responsive.min.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-style-dynamic-responsive-css",
+        "href": "https://www.thgoplus.com.br/wp-content/themes/bridge/css/style_dynamic_responsive.css?ver=1741812484",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "style",
+      "attrs": {
+        "id": "bridge-style-dynamic-responsive-inline-css",
+        "type": "text/css"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "js_composer_front-css",
+        "href": "https://www.thgoplus.com.br/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=8.3",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-style-handle-google-fonts-css",
+        "href": "https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic%7CRaleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic%7CHind+Siliguri%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic&subset=latin%2Clatin-ext&ver=1.0.0",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "bridge-core-dashboard-style-css",
+        "href": "https://www.thgoplus.com.br/wp-content/plugins/bridge-core/modules/core-dashboard/assets/css/core-dashboard.min.css?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "stylesheet",
+        "id": "joinchat-css",
+        "href": "https://www.thgoplus.com.br/wp-content/plugins/creame-whatsapp-me/public/css/joinchat.min.css?ver=5.2.3",
+        "type": "text/css",
+        "media": "all"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "id": "jquery-core-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "id": "jquery-migrate-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/plugins/wp-webinarsystem/includes/js/moment-with-locales.min.js?ver=1.33.27",
+        "id": "wpws-moment-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {}
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "https://api.w.org/",
+        "href": "https://www.thgoplus.com.br/wp-json/"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "alternate",
+        "title": "JSON",
+        "type": "application/json",
+        "href": "https://www.thgoplus.com.br/wp-json/wp/v2/pages/192"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "EditURI",
+        "type": "application/rsd+xml",
+        "title": "RSD",
+        "href": "https://www.thgoplus.com.br/xmlrpc.php?rsd"
+      }
+    },
+    {
+      "tag": "link",
+      "attrs": {
+        "rel": "canonical",
+        "href": "https://www.thgoplus.com.br/clientes/"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript"
+      }
+    },
+    {
+      "tag": "style",
+      "attrs": {}
+    },
+    {
+      "tag": "meta",
+      "attrs": {
+        "name": "generator",
+        "content": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress."
+      }
+    },
+    {
+      "tag": "style",
+      "attrs": {
+        "type": "text/css",
+        "data-type": "vc_shortcodes-custom-css"
+      }
+    },
+    {
+      "tag": "noscript",
+      "attrs": {}
+    },
+    {
+      "tag": "style",
+      "attrs": {}
+    },
+    {
+      "tag": "body",
+      "attrs": {
+        "data-rsssl": "1",
+        "data-cmplz": "1",
+        "class": "wp-singular page-template page-template-full_width page-template-full_width-php page page-id-192 wp-theme-bridge bridge-core-3.3.3 qode-optimizer-1.0.4  qode_grid_1300 footer_responsive_adv qode-smooth-scroll-enabled qode-theme-ver-30.8.6 qode-theme-bridge wpb-js-composer js-comp-ver-8.3 vc_responsive",
+        "itemscope": null,
+        "itemtype": "http://schema.org/WebPage"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wrapper_inner"
+      }
+    },
+    {
+      "tag": "header",
+      "attrs": {
+        "class": " scroll_header_top_area  fixed transparent scrolled_not_transparent menu_position_left page_header"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "header_inner clearfix"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "header_top_bottom_holder"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "header_bottom clearfix",
+        "style": " background-color:rgba(255, 255, 255, 0);"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "header_inner_left"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "mobile_menu_button"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "qode_icon_font_awesome fa fa-bars "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "logo_wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "q_logo"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "itemprop": "url",
+        "href": "https://www.thgoplus.com.br/"
+      }
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "itemprop": "image",
+        "class": "normal",
+        "src": "https://www.thgoplus.com.br/wp-content/uploads/2025/01/10-Anos.png",
+        "alt": "Logo"
+      }
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "itemprop": "image",
+        "class": "light",
+        "src": "https://www.thgoplus.com.br/wp-content/uploads/2019/02/logo.png",
+        "alt": "Logo"
+      }
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "itemprop": "image",
+        "class": "dark",
+        "src": "https://www.thgoplus.com.br/wp-content/uploads/2019/02/logo.png",
+        "alt": "Logo"
+      }
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "itemprop": "image",
+        "class": "sticky",
+        "src": "https://www.thgoplus.com.br/wp-content/uploads/2019/02/logo.png",
+        "alt": "Logo"
+      }
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "itemprop": "image",
+        "class": "mobile",
+        "src": "https://www.thgoplus.com.br/wp-content/uploads/2025/01/10-Anos.png",
+        "alt": "Logo"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "header_inner_right"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "side_menu_button_wrapper right"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "side_menu_button"
+      }
+    },
+    {
+      "tag": "nav",
+      "attrs": {
+        "class": "main_menu drop_down left"
+      }
+    },
+    {
+      "tag": "ul",
+      "attrs": {
+        "id": "menu-main-menu",
+        "class": ""
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "nav-menu-item-163",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-home  narrow"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "menu_icon blank fa"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "plus"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "nav-menu-item-178",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page  narrow"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/a-empresa/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "menu_icon blank fa"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "plus"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "nav-menu-item-180",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page  narrow"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/servicos/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "menu_icon blank fa"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "plus"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "nav-menu-item-195",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-192 current_page_item menu-item-has-children active has_sub narrow"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/clientes/",
+        "class": " current "
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "menu_icon blank fa"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "plus"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "second"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "inner"
+      }
+    },
+    {
+      "tag": "ul",
+      "attrs": {}
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "nav-menu-item-870",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/testemunhos/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "menu_icon blank fa"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "plus"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "nav-menu-item-418",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "#",
+        "class": " no_link",
+        "style": "cursor: default;",
+        "onclick": "JavaScript: return false;"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "menu_icon blank fa"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "plus"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "second"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "inner"
+      }
+    },
+    {
+      "tag": "ul",
+      "attrs": {}
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "nav-menu-item-332",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/blog/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "menu_icon blank fa"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "plus"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "nav-menu-item-355",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/midia/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "menu_icon blank fa"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "plus"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "nav-menu-item-380",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/palestras-e-eventos/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "menu_icon blank fa"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "plus"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "nav-menu-item-298",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page  narrow"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/vagas/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "menu_icon blank fa"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "plus"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "nav-menu-item-179",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page  narrow"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/contato/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "menu_icon blank fa"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "plus"
+      }
+    },
+    {
+      "tag": "nav",
+      "attrs": {
+        "class": "mobile_menu"
+      }
+    },
+    {
+      "tag": "ul",
+      "attrs": {
+        "id": "menu-main-menu-1",
+        "class": ""
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "mobile-menu-item-163",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-home "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "mobile_arrow"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-right"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-down"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "mobile-menu-item-178",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/a-empresa/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "mobile_arrow"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-right"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-down"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "mobile-menu-item-180",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/servicos/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "mobile_arrow"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-right"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-down"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "mobile-menu-item-195",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-192 current_page_item menu-item-has-children active has_sub"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/clientes/",
+        "class": " current "
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "mobile_arrow"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-right"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-down"
+      }
+    },
+    {
+      "tag": "ul",
+      "attrs": {
+        "class": "sub_menu"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "mobile-menu-item-870",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/testemunhos/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "mobile_arrow"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-right"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-down"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "mobile-menu-item-418",
+        "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"
+      }
+    },
+    {
+      "tag": "h3",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "mobile_arrow"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-right"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-down"
+      }
+    },
+    {
+      "tag": "ul",
+      "attrs": {
+        "class": "sub_menu"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "mobile-menu-item-332",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/blog/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "mobile_arrow"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-right"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-down"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "mobile-menu-item-355",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/midia/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "mobile_arrow"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-right"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-down"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "mobile-menu-item-380",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/palestras-e-eventos/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "mobile_arrow"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-right"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-down"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "mobile-menu-item-298",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/vagas/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "mobile_arrow"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-right"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-down"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {
+        "id": "mobile-menu-item-179",
+        "class": "menu-item menu-item-type-post_type menu-item-object-page "
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/contato/",
+        "class": ""
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "mobile_arrow"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-right"
+      }
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-angle-down"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "content "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "content_inner  "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "title_outer title_without_animation",
+        "data-height": "230"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "title title_size_medium  position_center ",
+        "style": "height:230px;"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "image not_responsive"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "title_holder",
+        "style": "padding-top:42px;height:188px;"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "container"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "container_inner clearfix"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "title_subtitle_holder"
+      }
+    },
+    {
+      "tag": "h1",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "full_width"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "full_width_inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb-content-wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_row wpb_row section vc_row-fluid ",
+        "style": " text-align:center;"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": " full_section_inner clearfix"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_column vc_column_container vc_col-sm-12"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_column-inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_single_image wpb_content_element vc_align_center"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_single_image-wrapper   vc_box_border_grey"
+      }
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "1600",
+        "height": "420",
+        "src": "https://www.thgoplus.com.br/wp-content/uploads/2019/02/topo-clientes.jpg",
+        "class": "vc_single_image-img attachment-full",
+        "alt": "",
+        "title": "topo-clientes",
+        "srcset": "https://www.thgoplus.com.br/wp-content/uploads/2019/02/topo-clientes.jpg 1600w, https://www.thgoplus.com.br/wp-content/uploads/2019/02/topo-clientes-600x158.jpg 600w, https://www.thgoplus.com.br/wp-content/uploads/2019/02/topo-clientes-300x79.jpg 300w, https://www.thgoplus.com.br/wp-content/uploads/2019/02/topo-clientes-768x202.jpg 768w, https://www.thgoplus.com.br/wp-content/uploads/2019/02/topo-clientes-1024x269.jpg 1024w, https://www.thgoplus.com.br/wp-content/uploads/2019/02/topo-clientes-700x184.jpg 700w",
+        "sizes": "(max-width: 1600px) 100vw, 1600px"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_row wpb_row section vc_row-fluid  grid_section",
+        "style": " text-align:center;"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": " section_inner clearfix"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "section_inner_margin clearfix"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_column vc_column_container vc_col-sm-12"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_column-inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 80px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "h2",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 40px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_row wpb_row section vc_row-fluid  vc_custom_1551121589062 grid_section",
+        "style": " text-align:left;"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": " section_inner clearfix"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "section_inner_margin clearfix"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_column-inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "h3",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 22px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "p",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 31px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_column-inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "h3",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 22px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "p",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 31px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_column-inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "h3",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 22px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "p",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 31px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_row wpb_row section vc_row-fluid  vc_custom_1551121589062 grid_section",
+        "style": " text-align:left;"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": " section_inner clearfix"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "section_inner_margin clearfix"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_column-inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "h3",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 22px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "p",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 31px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_column-inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "h3",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 22px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "p",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 31px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_column-inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "h3",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 22px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_text_column wpb_content_element "
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "wpb_wrapper"
+      }
+    },
+    {
+      "tag": "p",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 31px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "footer",
+      "attrs": {
+        "class": "uncover"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "footer_inner clearfix"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "footer_top_holder"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "footer_top footer_top_full"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "three_columns clearfix"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "column1 footer_col1"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "column_inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "id": "text-4",
+        "class": "widget widget_text"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "textwidget"
+      }
+    },
+    {
+      "tag": "img",
+      "attrs": {
+        "src": "https://www.thgoplus.com.br/wp-content/uploads/2019/02/logo.png",
+        "alt": "logo"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 15px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 31px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "column2 footer_col2"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "column_inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "id": "text-7",
+        "class": "widget widget_text"
+      }
+    },
+    {
+      "tag": "h5",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "textwidget"
+      }
+    },
+    {
+      "tag": "p",
+      "attrs": {}
+    },
+    {
+      "tag": "p",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "i",
+      "attrs": {
+        "class": "fa fa-envelope",
+        "aria-hidden": "true"
+      }
+    },
+    {
+      "tag": "p",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "vc_empty_space",
+        "style": "height: 15px"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "vc_empty_space_inner"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "empty_space_image"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "column3 footer_col3"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "column_inner"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "id": "custom_html-5",
+        "class": "widget_text widget widget_custom_html"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "textwidget custom-html-widget"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/termos-de-uso"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "https://www.thgoplus.com.br/politica-privacidade"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "footer_bottom_holder"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "footer_bottom"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "textwidget"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "align": "center"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "href": "http://www.artecarminatti.com.br",
+        "target": "_blank"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "speculationrules"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "id": "cmplz-cookiebanner-container"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-cookiebanner cmplz-hidden banner-1 bottom-right-view-preferences optin cmplz-bottom-right cmplz-categories-type-view-preferences",
+        "aria-modal": "true",
+        "data-nosnippet": "true",
+        "role": "dialog",
+        "aria-live": "polite",
+        "aria-labelledby": "cmplz-header-1-optin",
+        "aria-describedby": "cmplz-message-1-optin"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-header"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-logo"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-title",
+        "id": "cmplz-header-1-optin"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-close",
+        "tabindex": "0",
+        "role": "button",
+        "aria-label": "Fechar diálogo"
+      }
+    },
+    {
+      "tag": "svg",
+      "attrs": {
+        "aria-hidden": "true",
+        "focusable": "false",
+        "data-prefix": "fas",
+        "data-icon": "times",
+        "class": "svg-inline--fa fa-times fa-w-11",
+        "role": "img",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewbox": "0 0 352 512"
+      }
+    },
+    {
+      "tag": "path",
+      "attrs": {
+        "fill": "currentColor",
+        "d": "M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-divider cmplz-divider-header"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-body"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-message",
+        "id": "cmplz-message-1-optin"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-categories"
+      }
+    },
+    {
+      "tag": "details",
+      "attrs": {
+        "class": "cmplz-category cmplz-functional"
+      }
+    },
+    {
+      "tag": "summary",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-category-header"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-category-title"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-always-active"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-banner-checkbox"
+      }
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "type": "checkbox",
+        "id": "cmplz-functional-optin",
+        "data-category": "cmplz_functional",
+        "class": "cmplz-consent-checkbox cmplz-functional",
+        "size": "40",
+        "value": "1"
+      }
+    },
+    {
+      "tag": "label",
+      "attrs": {
+        "class": "cmplz-label",
+        "for": "cmplz-functional-optin"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "screen-reader-text"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-icon cmplz-open"
+      }
+    },
+    {
+      "tag": "svg",
+      "attrs": {
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewbox": "0 0 448 512",
+        "height": "18"
+      }
+    },
+    {
+      "tag": "path",
+      "attrs": {
+        "d": "M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-description"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-description-functional"
+      }
+    },
+    {
+      "tag": "details",
+      "attrs": {
+        "class": "cmplz-category cmplz-preferences"
+      }
+    },
+    {
+      "tag": "summary",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-category-header"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-category-title"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-banner-checkbox"
+      }
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "type": "checkbox",
+        "id": "cmplz-preferences-optin",
+        "data-category": "cmplz_preferences",
+        "class": "cmplz-consent-checkbox cmplz-preferences",
+        "size": "40",
+        "value": "1"
+      }
+    },
+    {
+      "tag": "label",
+      "attrs": {
+        "class": "cmplz-label",
+        "for": "cmplz-preferences-optin"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "screen-reader-text"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-icon cmplz-open"
+      }
+    },
+    {
+      "tag": "svg",
+      "attrs": {
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewbox": "0 0 448 512",
+        "height": "18"
+      }
+    },
+    {
+      "tag": "path",
+      "attrs": {
+        "d": "M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-description"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-description-preferences"
+      }
+    },
+    {
+      "tag": "details",
+      "attrs": {
+        "class": "cmplz-category cmplz-statistics"
+      }
+    },
+    {
+      "tag": "summary",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-category-header"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-category-title"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-banner-checkbox"
+      }
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "type": "checkbox",
+        "id": "cmplz-statistics-optin",
+        "data-category": "cmplz_statistics",
+        "class": "cmplz-consent-checkbox cmplz-statistics",
+        "size": "40",
+        "value": "1"
+      }
+    },
+    {
+      "tag": "label",
+      "attrs": {
+        "class": "cmplz-label",
+        "for": "cmplz-statistics-optin"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "screen-reader-text"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-icon cmplz-open"
+      }
+    },
+    {
+      "tag": "svg",
+      "attrs": {
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewbox": "0 0 448 512",
+        "height": "18"
+      }
+    },
+    {
+      "tag": "path",
+      "attrs": {
+        "d": "M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-description"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-description-statistics"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-description-statistics-anonymous"
+      }
+    },
+    {
+      "tag": "details",
+      "attrs": {
+        "class": "cmplz-category cmplz-marketing"
+      }
+    },
+    {
+      "tag": "summary",
+      "attrs": {}
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-category-header"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-category-title"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-banner-checkbox"
+      }
+    },
+    {
+      "tag": "input",
+      "attrs": {
+        "type": "checkbox",
+        "id": "cmplz-marketing-optin",
+        "data-category": "cmplz_marketing",
+        "class": "cmplz-consent-checkbox cmplz-marketing",
+        "size": "40",
+        "value": "1"
+      }
+    },
+    {
+      "tag": "label",
+      "attrs": {
+        "class": "cmplz-label",
+        "for": "cmplz-marketing-optin"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "screen-reader-text"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-icon cmplz-open"
+      }
+    },
+    {
+      "tag": "svg",
+      "attrs": {
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewbox": "0 0 448 512",
+        "height": "18"
+      }
+    },
+    {
+      "tag": "path",
+      "attrs": {
+        "d": "M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-description"
+      }
+    },
+    {
+      "tag": "span",
+      "attrs": {
+        "class": "cmplz-description-marketing"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-links cmplz-information"
+      }
+    },
+    {
+      "tag": "ul",
+      "attrs": {}
+    },
+    {
+      "tag": "li",
+      "attrs": {}
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "class": "cmplz-link cmplz-manage-options cookie-statement",
+        "href": "#",
+        "data-relative_url": "#cmplz-manage-consent-container"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {}
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "class": "cmplz-link cmplz-manage-third-parties cookie-statement",
+        "href": "#",
+        "data-relative_url": "#cmplz-cookies-overview"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {}
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "class": "cmplz-link cmplz-manage-vendors tcf cookie-statement",
+        "href": "#",
+        "data-relative_url": "#cmplz-tcf-wrapper"
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {}
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "class": "cmplz-link cmplz-external cmplz-read-more-purposes tcf",
+        "target": "_blank",
+        "rel": "noopener noreferrer nofollow",
+        "href": "https://cookiedatabase.org/tcf/purposes/",
+        "aria-label": "Leia mais sobre os objetivos da Estrutura de Transparência e Consentimento (TCF) no banco de dados de cookies"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-divider cmplz-footer"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-buttons"
+      }
+    },
+    {
+      "tag": "button",
+      "attrs": {
+        "class": "cmplz-btn cmplz-accept"
+      }
+    },
+    {
+      "tag": "button",
+      "attrs": {
+        "class": "cmplz-btn cmplz-deny"
+      }
+    },
+    {
+      "tag": "button",
+      "attrs": {
+        "class": "cmplz-btn cmplz-view-preferences"
+      }
+    },
+    {
+      "tag": "button",
+      "attrs": {
+        "class": "cmplz-btn cmplz-save-preferences"
+      }
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "class": "cmplz-btn cmplz-manage-options tcf cookie-statement",
+        "href": "#",
+        "data-relative_url": "#cmplz-manage-consent-container"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "cmplz-documents cmplz-links"
+      }
+    },
+    {
+      "tag": "ul",
+      "attrs": {}
+    },
+    {
+      "tag": "li",
+      "attrs": {}
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "class": "cmplz-link cookie-statement",
+        "href": "#",
+        "data-relative_url": ""
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {}
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "class": "cmplz-link privacy-statement",
+        "href": "#",
+        "data-relative_url": ""
+      }
+    },
+    {
+      "tag": "li",
+      "attrs": {}
+    },
+    {
+      "tag": "a",
+      "attrs": {
+        "class": "cmplz-link impressum",
+        "href": "#",
+        "data-relative_url": ""
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "id": "cmplz-manage-consent",
+        "data-nosnippet": "true"
+      }
+    },
+    {
+      "tag": "button",
+      "attrs": {
+        "class": "cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {}
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "joinchat joinchat--right",
+        "data-settings": "{\"telephone\":\"551141160221\",\"mobile_only\":false,\"button_delay\":3,\"whatsapp_web\":false,\"qr\":false,\"message_views\":2,\"message_delay\":5,\"message_badge\":false,\"message_send\":\"Olá, gostaria de saber mais informações\",\"message_hash\":\"cc4600a5\"}"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "joinchat__button"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "joinchat__button__open"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "joinchat__button__sendtext"
+      }
+    },
+    {
+      "tag": "svg",
+      "attrs": {
+        "class": "joinchat__button__send",
+        "width": "60",
+        "height": "60",
+        "viewbox": "0 0 400 400",
+        "stroke-linecap": "round",
+        "stroke-width": "33"
+      }
+    },
+    {
+      "tag": "path",
+      "attrs": {
+        "class": "joinchat_svg__plain",
+        "d": "M168.83 200.504H79.218L33.04 44.284a1 1 0 0 1 1.386-1.188L365.083 199.04a1 1 0 0 1 .003 1.808L34.432 357.903a1 1 0 0 1-1.388-1.187l29.42-99.427"
+      }
+    },
+    {
+      "tag": "path",
+      "attrs": {
+        "class": "joinchat_svg__chat",
+        "d": "M318.087 318.087c-52.982 52.982-132.708 62.922-195.725 29.82l-80.449 10.18 10.358-80.112C18.956 214.905 28.836 134.99 81.913 81.913c65.218-65.217 170.956-65.217 236.174 0 42.661 42.661 57.416 102.661 44.265 157.316"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "joinchat__box"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "joinchat__header"
+      }
+    },
+    {
+      "tag": "svg",
+      "attrs": {
+        "class": "joinchat__wa",
+        "width": "120",
+        "height": "28",
+        "viewbox": "0 0 120 28"
+      }
+    },
+    {
+      "tag": "title",
+      "attrs": {}
+    },
+    {
+      "tag": "path",
+      "attrs": {
+        "d": "M117.2 17c0 .4-.2.7-.4 1-.1.3-.4.5-.7.7l-1 .2c-.5 0-.9 0-1.2-.2l-.7-.7a3 3 0 0 1-.4-1 5.4 5.4 0 0 1 0-2.3c0-.4.2-.7.4-1l.7-.7a2 2 0 0 1 1.1-.3 2 2 0 0 1 1.8 1l.4 1a5.3 5.3 0 0 1 0 2.3zm2.5-3c-.1-.7-.4-1.3-.8-1.7a4 4 0 0 0-1.3-1.2c-.6-.3-1.3-.4-2-.4-.6 0-1.2.1-1.7.4a3 3 0 0 0-1.2 1.1V11H110v13h2.7v-4.5c.4.4.8.8 1.3 1 .5.3 1 .4 1.6.4a4 4 0 0 0 3.2-1.5c.4-.5.7-1 .8-1.6.2-.6.3-1.2.3-1.9s0-1.3-.3-2zm-13.1 3c0 .4-.2.7-.4 1l-.7.7-1.1.2c-.4 0-.8 0-1-.2-.4-.2-.6-.4-.8-.7a3 3 0 0 1-.4-1 5.4 5.4 0 0 1 0-2.3c0-.4.2-.7.4-1 .1-.3.4-.5.7-.7a2 2 0 0 1 1-.3 2 2 0 0 1 1.9 1l.4 1a5.4 5.4 0 0 1 0 2.3zm1.7-4.7a4 4 0 0 0-3.3-1.6c-.6 0-1.2.1-1.7.4a3 3 0 0 0-1.2 1.1V11h-2.6v13h2.7v-4.5c.3.4.7.8 1.2 1 .6.3 1.1.4 1.7.4a4 4 0 0 0 3.2-1.5c.4-.5.6-1 .8-1.6.2-.6.3-1.2.3-1.9s-.1-1.3-.3-2c-.2-.6-.4-1.2-.8-1.6zm-17.5 3.2l1.7-5 1.7 5h-3.4zm.2-8.2l-5 13.4h3l1-3h5l1 3h3L94 7.3h-3zm-5.3 9.1l-.6-.8-1-.5a11.6 11.6 0 0 0-2.3-.5l-1-.3a2 2 0 0 1-.6-.3.7.7 0 0 1-.3-.6c0-.2 0-.4.2-.5l.3-.3h.5l.5-.1c.5 0 .9 0 1.2.3.4.1.6.5.6 1h2.5c0-.6-.2-1.1-.4-1.5a3 3 0 0 0-1-1 4 4 0 0 0-1.3-.5 7.7 7.7 0 0 0-3 0c-.6.1-1 .3-1.4.5l-1 1a3 3 0 0 0-.4 1.5 2 2 0 0 0 1 1.8l1 .5 1.1.3 2.2.6c.6.2.8.5.8 1l-.1.5-.4.4a2 2 0 0 1-.6.2 2.8 2.8 0 0 1-1.4 0 2 2 0 0 1-.6-.3l-.5-.5-.2-.8H77c0 .7.2 1.2.5 1.6.2.5.6.8 1 1 .4.3.9.5 1.4.6a8 8 0 0 0 3.3 0c.5 0 1-.2 1.4-.5a3 3 0 0 0 1-1c.3-.5.4-1 .4-1.6 0-.5 0-.9-.3-1.2zM74.7 8h-2.6v3h-1.7v1.7h1.7v5.8c0 .5 0 .9.2 1.2l.7.7 1 .3a7.8 7.8 0 0 0 2 0h.7v-2.1a3.4 3.4 0 0 1-.8 0l-1-.1-.2-1v-4.8h2V11h-2V8zm-7.6 9v.5l-.3.8-.7.6c-.2.2-.7.2-1.2.2h-.6l-.5-.2a1 1 0 0 1-.4-.4l-.1-.6.1-.6.4-.4.5-.3a4.8 4.8 0 0 1 1.2-.2 8.3 8.3 0 0 0 1.2-.2l.4-.3v1zm2.6 1.5v-5c0-.6 0-1.1-.3-1.5l-1-.8-1.4-.4a10.9 10.9 0 0 0-3.1 0l-1.5.6c-.4.2-.7.6-1 1a3 3 0 0 0-.5 1.5h2.7c0-.5.2-.9.5-1a2 2 0 0 1 1.3-.4h.6l.6.2.3.4.2.7c0 .3 0 .5-.3.6-.1.2-.4.3-.7.4l-1 .1a21.9 21.9 0 0 0-2.4.4l-1 .5c-.3.2-.6.5-.8.9-.2.3-.3.8-.3 1.3s.1 1 .3 1.3c.1.4.4.7.7 1l1 .4c.4.2.9.2 1.3.2a6 6 0 0 0 1.8-.2c.6-.2 1-.5 1.5-1a4 4 0 0 0 .2 1H70l-.3-1v-1.2zm-11-6.7c-.2-.4-.6-.6-1-.8-.5-.2-1-.3-1.8-.3-.5 0-1 .1-1.5.4a3 3 0 0 0-1.3 1.2v-5h-2.7v13.4H53v-5.1c0-1 .2-1.7.5-2.2.3-.4.9-.6 1.6-.6.6 0 1 .2 1.3.6.3.4.4 1 .4 1.8v5.5h2.7v-6c0-.6 0-1.2-.2-1.6 0-.5-.3-1-.5-1.3zm-14 4.7l-2.3-9.2h-2.8l-2.3 9-2.2-9h-3l3.6 13.4h3l2.2-9.2 2.3 9.2h3l3.6-13.4h-3l-2.1 9.2zm-24.5.2L18 15.6c-.3-.1-.6-.2-.8.2A20 20 0 0 1 16 17c-.2.2-.4.3-.7.1-.4-.2-1.5-.5-2.8-1.7-1-1-1.7-2-2-2.4-.1-.4 0-.5.2-.7l.5-.6.4-.6v-.6L10.4 8c-.3-.6-.6-.5-.8-.6H9c-.2 0-.6.1-.9.5C7.8 8.2 7 9 7 10.7c0 1.7 1.3 3.4 1.4 3.6.2.3 2.5 3.7 6 5.2l1.9.8c.8.2 1.6.2 2.2.1.6-.1 2-.8 2.3-1.6.3-.9.3-1.5.2-1.7l-.7-.4zM14 25.3c-2 0-4-.5-5.8-1.6l-.4-.2-4.4 1.1 1.2-4.2-.3-.5A11.5 11.5 0 0 1 22.1 5.7 11.5 11.5 0 0 1 14 25.3zM14 0A13.8 13.8 0 0 0 2 20.7L0 28l7.3-2A13.8 13.8 0 1 0 14 0z"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "joinchat__close",
+        "title": "Fechar"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "joinchat__box__scroll"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "joinchat__box__content"
+      }
+    },
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "joinchat__message"
+      }
+    },
+    {
+      "tag": "br",
+      "attrs": {}
+    },
+    {
+      "tag": "svg",
+      "attrs": {
+        "style": "width:0;height:0;position:absolute"
+      }
+    },
+    {
+      "tag": "defs",
+      "attrs": {}
+    },
+    {
+      "tag": "clippath",
+      "attrs": {
+        "id": "joinchat__peak_l"
+      }
+    },
+    {
+      "tag": "path",
+      "attrs": {
+        "d": "M17 25V0C17 12.877 6.082 14.9 1.031 15.91c-1.559.31-1.179 2.272.004 2.272C9.609 18.182 17 18.088 17 25z"
+      }
+    },
+    {
+      "tag": "clippath",
+      "attrs": {
+        "id": "joinchat__peak_r"
+      }
+    },
+    {
+      "tag": "path",
+      "attrs": {
+        "d": "M0 25.68V0c0 13.23 10.92 15.3 15.97 16.34 1.56.32 1.18 2.34 0 2.34-8.58 0-15.97-.1-15.97 7Z"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/html",
+        "id": "wpb-modifications"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+        "id": "jquery-ui-core-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.3",
+        "id": "jquery-ui-tabs-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.3",
+        "id": "jquery-ui-accordion-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/doubletaptogo.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "doubleTapToGo-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/modernizr.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "modernizr-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/jquery.appear.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "appear-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-includes/js/hoverIntent.min.js?ver=1.10.2",
+        "id": "hoverIntent-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/jquery.prettyPhoto.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "prettyphoto-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "id": "mediaelement-core-js-before"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17",
+        "id": "mediaelement-core-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "mediaelement-migrate-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "id": "mediaelement-js-extra"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "wp-mediaelement-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/jquery.waitforimages.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "waitforimages-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0",
+        "id": "jquery-form-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/waypoints.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "waypoints-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/jquery.easing.1.3.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "easing-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/jquery.mousewheel.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "mousewheel-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/jquery.isotope.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "isotope-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/skrollr.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "skrollr-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/TweenLite.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "TweenLite-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/ScrollToPlugin.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "ScrollToPlugin-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/smoothPageScroll.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "smoothPageScroll-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/default_dynamic.js?ver=1741812484",
+        "id": "bridge-default-dynamic-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "id": "bridge-default-js-extra"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/default.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "bridge-default-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-includes/js/comment-reply.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "comment-reply-js",
+        "async": "async",
+        "data-wp-strategy": "async",
+        "fetchpriority": "low"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=8.3",
+        "id": "wpb_composer_front_js-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "id": "qode-like-js-extra"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/themes/bridge/js/plugins/qode-like.min.js?ver=a8e446b7ce5f0f2ff3109374076b77d4",
+        "id": "qode-like-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=5.2.3",
+        "id": "joinchat-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/javascript",
+        "id": "cmplz-cookiebanner-js-extra"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "defer": null,
+        "type": "text/javascript",
+        "src": "https://www.thgoplus.com.br/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1779200318",
+        "id": "cmplz-cookiebanner-js"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "id": "wp-emoji-settings",
+        "type": "application/json"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "module"
+      }
+    },
+    {
+      "tag": "script",
+      "attrs": {}
+    },
+    {
+      "tag": "script",
+      "attrs": {
+        "type": "text/plain",
+        "data-category": "statistics"
+      }
+    }
+  ],
+  "text": [
+    "THGO Plus | Clientes",
+    "Home",
+    "Empresa",
+    "Serviços",
+    "Clientes",
+    "Testemunhos",
+    "Publicações",
+    "Blog",
+    "Mídia",
+    "Palestras e Eventos",
+    "Vagas",
+    "Contato",
+    "Home",
+    "Empresa",
+    "Serviços",
+    "Clientes",
+    "Testemunhos",
+    "Publicações",
+    "Blog",
+    "Mídia",
+    "Palestras e Eventos",
+    "Vagas",
+    "Contato",
+    "Clientes",
+    "Área de atuação de nossos clientes",
+    "Saúde",
+    "Medicina e Psicologia",
+    "Estética e Bem Estar",
+    "Farmácias de Manipulação",
+    "Clínica de Radiologia",
+    "Clínica Multidisciplinar",
+    "Tecnologia",
+    "Realidade Virtual e Mobile Designer",
+    "Eletroeletrônica e Automação Predial",
+    "Meios de Pagamentos Online",
+    "Automação industrial",
+    "Engenharia Civil",
+    "Entretenimento",
+    "Plataforma de Vendas de Ingressos de Entretenimento",
+    "Produtora de Conteúdo",
+    "Indústria",
+    "Artesanato",
+    "Sistemas de Fixação",
+    "Iluminação",
+    "Serviços",
+    "Assistência Técnica",
+    "Contabilidade",
+    "Seguros",
+    "Logística",
+    "Construção Civil",
+    "Advocacia",
+    "Consultorias",
+    "Comércio",
+    "Vestuário",
+    "Artesanato",
+    "Alimentos",
+    "Ótica",
+    "Restaurante",
+    "Soluções para transformar a gestão das empresas em lucratividade através da governança corporativa e do talento humano",
+    "Entre em Contato",
+    "55 11 4116-0221",
+    "Segunda à sexta das 10h às 19h",
+    "contato@thgoplus.com.br",
+    "Termos de Uso",
+    "e",
+    "Política e Privacidade",
+    "© 2020 THGO Plus - Mentoria e Consultoria Empresarial, especializada em Vendas e Estruturação de Negócios - Desenvolvido por",
+    "Arte Caminatti",
+    "Gerenciar Consentimento de Cookies",
+    "Para fornecer as melhores experiências, usamos tecnologias como cookies para armazenar e/ou acessar informações do dispositivo. O consentimento para essas tecnologias nos permitirá processar dados como comportamento de navegação ou IDs exclusivos neste site. Não consentir ou retirar o consentimento pode afetar negativamente certos recursos e funções.",
+    "Funcional",
+    "Funcional",
+    "Sempre ativo",
+    "O armazenamento ou acesso técnico é estritamente necessário para a finalidade legítima de permitir a utilização de um serviço específico explicitamente solicitado pelo assinante ou utilizador, ou com a finalidade exclusiva de efetuar a transmissão de uma comunicação através de uma rede de comunicações eletrónicas.",
+    "Preferências",
+    "Preferências",
+    "O armazenamento ou acesso técnico é necessário para o propósito legítimo de armazenar preferências que não são solicitadas pelo assinante ou usuário.",
+    "Estatísticas",
+    "Estatísticas",
+    "O armazenamento ou acesso técnico que é usado exclusivamente para fins estatísticos.",
+    "O armazenamento técnico ou acesso que é usado exclusivamente para fins estatísticos anônimos. Sem uma intimação, conformidade voluntária por parte de seu provedor de serviços de Internet ou registros adicionais de terceiros, as informações armazenadas ou recuperadas apenas para esse fim geralmente não podem ser usadas para identificá-lo.",
+    "Marketing",
+    "Marketing",
+    "O armazenamento ou acesso técnico é necessário para criar perfis de usuário para enviar publicidade ou para rastrear o usuário em um site ou em vários sites para fins de marketing semelhantes.",
+    "Gerenciar opções",
+    "Gerenciar serviços",
+    "Gerenciar {vendor_count} fornecedores",
+    "Leia mais sobre esses objetivos",
+    "Aceitar",
+    "Negar",
+    "Ver preferências",
+    "Salvar preferências",
+    "Ver preferências",
+    "{title}",
+    "{title}",
+    "{title}",
+    "Gerenciar o consentimento",
+    "Abrir bate-papo",
+    "WhatsApp",
+    "Olá 👋",
+    "Podemos ajudá-lo?"
+  ]
+}

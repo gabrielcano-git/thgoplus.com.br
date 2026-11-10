@@ -1,0 +1,277 @@
+{
+  "date": "2026-11-10T14:29:03.303Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "dom": {
+    "title": "THGO Plus | Serviços",
+    "lang": "pt-BR",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "headings": [
+      {
+        "tag": "H3",
+        "text": "Publicações"
+      },
+      {
+        "tag": "H1",
+        "text": "Serviços"
+      },
+      {
+        "tag": "H3",
+        "text": "Estruturação de Conselho Consultivo para Pequenas e Médias Empresas"
+      },
+      {
+        "tag": "H3",
+        "text": "Mentoria em Estruturação do Negócio"
+      },
+      {
+        "tag": "H3",
+        "text": ""
+      },
+      {
+        "tag": "H3",
+        "text": "Mentoria em Vendas"
+      },
+      {
+        "tag": "H3",
+        "text": "Mentoria Empresarial para Novos Negócios"
+      },
+      {
+        "tag": "H3",
+        "text": "Gestão de Vendas"
+      },
+      {
+        "tag": "H3",
+        "text": "Gestão de RH"
+      },
+      {
+        "tag": "H3",
+        "text": ""
+      },
+      {
+        "tag": "H3",
+        "text": "Mentoria Empresarial para a Gestão do Negócio"
+      },
+      {
+        "tag": "H3",
+        "text": "Projeto 40+"
+      },
+      {
+        "tag": "H3",
+        "text": "Assessoria à LGPD"
+      },
+      {
+        "tag": "H5",
+        "text": "Entre em Contato"
+      }
+    ],
+    "main": 0,
+    "links": [
+      {
+        "text": "Gerenciar opções",
+        "href": "https://www.thgoplus.com.br/vendas-e-a-experiencia-do-cliente/#cmplz-manage-consent-container"
+      },
+      {
+        "text": "Gerenciar serviços",
+        "href": "https://www.thgoplus.com.br/vendas-e-a-experiencia-do-cliente/#cmplz-cookies-overview"
+      },
+      {
+        "text": "Gerenciar {vendor_count} fornecedores",
+        "href": "https://www.thgoplus.com.br/vendas-e-a-experiencia-do-cliente/#cmplz-tcf-wrapper"
+      },
+      {
+        "text": "Leia mais sobre esses objetivos",
+        "href": "https://cookiedatabase.org/tcf/purposes/"
+      },
+      {
+        "text": "Ver preferências",
+        "href": "https://www.thgoplus.com.br/vendas-e-a-experiencia-do-cliente/#cmplz-manage-consent-container"
+      },
+      {
+        "text": "",
+        "href": "https://www.thgoplus.com.br/vendas-e-a-experiencia-do-cliente/"
+      },
+      {
+        "text": "Política Privacidade",
+        "href": "https://www.thgoplus.com.br/politica-privacidade/"
+      },
+      {
+        "text": "{title}",
+        "href": "https://www.thgoplus.com.br/servicos/#"
+      },
+      {
+        "text": "",
+        "href": "https://www.thgoplus.com.br/"
+      },
+      {
+        "text": "Home",
+        "href": "https://www.thgoplus.com.br/"
+      },
+      {
+        "text": "Empresa",
+        "href": "https://www.thgoplus.com.br/a-empresa/"
+      },
+      {
+        "text": "Serviços",
+        "href": "https://www.thgoplus.com.br/servicos/"
+      },
+      {
+        "text": "Clientes",
+        "href": "https://www.thgoplus.com.br/clientes/"
+      },
+      {
+        "text": "Testemunhos",
+        "href": "https://www.thgoplus.com.br/testemunhos/"
+      },
+      {
+        "text": "Publicações",
+        "href": "https://www.thgoplus.com.br/servicos/#"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.thgoplus.com.br/blog/"
+      },
+      {
+        "text": "Mídia",
+        "href": "https://www.thgoplus.com.br/midia/"
+      },
+      {
+        "text": "Palestras e Eventos",
+        "href": "https://www.thgoplus.com.br/palestras-e-eventos/"
+      },
+      {
+        "text": "Vagas",
+        "href": "https://www.thgoplus.com.br/vagas/"
+      },
+      {
+        "text": "Contato",
+        "href": "https://www.thgoplus.com.br/contato/"
+      },
+      {
+        "text": "Home",
+        "href": "https://www.thgoplus.com.br/"
+      },
+      {
+        "text": "Empresa",
+        "href": "https://www.thgoplus.com.br/a-empresa/"
+      },
+      {
+        "text": "Serviços",
+        "href": "https://www.thgoplus.com.br/servicos/"
+      },
+      {
+        "text": "Clientes",
+        "href": "https://www.thgoplus.com.br/clientes/"
+      },
+      {
+        "text": "Testemunhos",
+        "href": "https://www.thgoplus.com.br/testemunhos/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.thgoplus.com.br/blog/"
+      },
+      {
+        "text": "Mídia",
+        "href": "https://www.thgoplus.com.br/midia/"
+      },
+      {
+        "text": "Palestras e Eventos",
+        "href": "https://www.thgoplus.com.br/palestras-e-eventos/"
+      },
+      {
+        "text": "Vagas",
+        "href": "https://www.thgoplus.com.br/vagas/"
+      },
+      {
+        "text": "Contato",
+        "href": "https://www.thgoplus.com.br/contato/"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.thgoplus.com.br/conselho-consultivo-tambem-e-para-pme/"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.thgoplus.com.br/mentoria-em-estruturacao-do-negocio/"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.thgoplus.com.br/mentoria-em-vendas/"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.thgoplus.com.br/mentoria-empresarial-para-novos-negocios/"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.thgoplus.com.br/gestao-de-vendas/"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.thgoplus.com.br/gestao-de-rh/"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.thgoplus.com.br/mentoria-empresarial-para-a-gestao-do-negocio/"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.thgoplus.com.br/?p=973&preview=true"
+      },
+      {
+        "text": "Saiba mais",
+        "href": "https://www.thgoplus.com.br/lgpd-agora-e-hora-da-sua-empresa-se-organizar/"
+      },
+      {
+        "text": "FALE CONOSCO",
+        "href": "https://www.thgoplus.com.br/contato/"
+      },
+      {
+        "text": "Termos de Uso",
+        "href": "https://www.thgoplus.com.br/termos-de-uso"
+      },
+      {
+        "text": "Política e Privacidade",
+        "href": "https://www.thgoplus.com.br/politica-privacidade"
+      },
+      {
+        "text": "Arte Caminatti",
+        "href": "http://www.artecarminatti.com.br/"
+      }
+    ],
+    "fields": [
+      {
+        "type": "checkbox",
+        "id": "cmplz-functional-optin",
+        "labels": [
+          "Funcional"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "id": "cmplz-preferences-optin",
+        "labels": [
+          "Preferências"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "id": "cmplz-statistics-optin",
+        "labels": [
+          "Estatísticas"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "id": "cmplz-marketing-optin",
+        "labels": [
+          "Marketing"
+        ]
+      }
+    ]
+  },
+  "errors": []
+}

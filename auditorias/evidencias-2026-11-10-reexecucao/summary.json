@@ -1,0 +1,209 @@
+[
+  {
+    "page": "a-empresa",
+    "url": "https://www.thgoplus.com.br/a-empresa/",
+    "status": "200",
+    "h1": 1,
+    "main": 0,
+    "description": 0,
+    "viewport": [
+      "width=device-width,initial-scale=1,user-scalable=no"
+    ],
+    "localhost": [
+      {
+        "rel": "shortcut icon",
+        "type": "image/x-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      }
+    ],
+    "direct_contact_links": []
+  },
+  {
+    "page": "blog",
+    "url": "https://www.thgoplus.com.br/blog/",
+    "status": "200",
+    "h1": 1,
+    "main": 0,
+    "description": 0,
+    "viewport": [
+      "width=device-width,initial-scale=1,user-scalable=no"
+    ],
+    "localhost": [
+      {
+        "rel": "shortcut icon",
+        "type": "image/x-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      }
+    ],
+    "direct_contact_links": []
+  },
+  {
+    "page": "clientes",
+    "url": "https://www.thgoplus.com.br/clientes/",
+    "status": "200",
+    "h1": 1,
+    "main": 0,
+    "description": 0,
+    "viewport": [
+      "width=device-width,initial-scale=1,user-scalable=no"
+    ],
+    "localhost": [
+      {
+        "rel": "shortcut icon",
+        "type": "image/x-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      }
+    ],
+    "direct_contact_links": []
+  },
+  {
+    "page": "contato",
+    "url": "https://www.thgoplus.com.br/contato/",
+    "status": "200",
+    "h1": 1,
+    "main": 0,
+    "description": 0,
+    "viewport": [
+      "width=device-width,initial-scale=1,user-scalable=no"
+    ],
+    "localhost": [
+      {
+        "rel": "shortcut icon",
+        "type": "image/x-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      }
+    ],
+    "direct_contact_links": []
+  },
+  {
+    "page": "home",
+    "url": "https://www.thgoplus.com.br/",
+    "status": "200",
+    "h1": 0,
+    "main": 0,
+    "description": 0,
+    "viewport": [
+      "width=device-width,initial-scale=1,user-scalable=no"
+    ],
+    "localhost": [
+      {
+        "rel": "shortcut icon",
+        "type": "image/x-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      }
+    ],
+    "direct_contact_links": []
+  },
+  {
+    "page": "politica-privacidade",
+    "url": "https://www.thgoplus.com.br/politica-privacidade/",
+    "status": "200",
+    "h1": 1,
+    "main": 0,
+    "description": 0,
+    "viewport": [
+      "width=device-width,initial-scale=1,user-scalable=no"
+    ],
+    "localhost": [
+      {
+        "rel": "shortcut icon",
+        "type": "image/x-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      }
+    ],
+    "direct_contact_links": []
+  },
+  {
+    "page": "servicos",
+    "url": "https://www.thgoplus.com.br/servicos/",
+    "status": "200",
+    "h1": 1,
+    "main": 0,
+    "description": 0,
+    "viewport": [
+      "width=device-width,initial-scale=1,user-scalable=no"
+    ],
+    "localhost": [
+      {
+        "rel": "shortcut icon",
+        "type": "image/x-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      }
+    ],
+    "direct_contact_links": []
+  },
+  {
+    "page": "termos-de-uso",
+    "url": "https://www.thgoplus.com.br/termos-de-uso/",
+    "status": "200",
+    "h1": 1,
+    "main": 0,
+    "description": 0,
+    "viewport": [
+      "width=device-width,initial-scale=1,user-scalable=no"
+    ],
+    "localhost": [
+      {
+        "rel": "shortcut icon",
+        "type": "image/x-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      }
+    ],
+    "direct_contact_links": []
+  },
+  {
+    "page": "testemunhos",
+    "url": "https://www.thgoplus.com.br/testemunhos/",
+    "status": "200",
+    "h1": 1,
+    "main": 0,
+    "description": 0,
+    "viewport": [
+      "width=device-width,initial-scale=1,user-scalable=no"
+    ],
+    "localhost": [
+      {
+        "rel": "shortcut icon",
+        "type": "image/x-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      },
+      {
+        "rel": "apple-touch-icon",
+        "href": "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+      }
+    ],
+    "direct_contact_links": []
+  }
+]

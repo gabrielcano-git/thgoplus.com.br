@@ -1,0 +1,268 @@
+{
+  "date": "2026-11-10T14:29:04.493Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "dom": {
+    "title": "THGO Plus | Contato",
+    "lang": "pt-BR",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "headings": [
+      {
+        "tag": "H3",
+        "text": "Publicações"
+      },
+      {
+        "tag": "H1",
+        "text": "Contato"
+      },
+      {
+        "tag": "H2",
+        "text": "Fale Conosco"
+      },
+      {
+        "tag": "H3",
+        "text": "Contato"
+      },
+      {
+        "tag": "H5",
+        "text": "Entre em Contato"
+      }
+    ],
+    "main": 0,
+    "links": [
+      {
+        "text": "Gerenciar opções",
+        "href": "https://www.thgoplus.com.br/vendas-e-a-experiencia-do-cliente/#cmplz-manage-consent-container"
+      },
+      {
+        "text": "Gerenciar serviços",
+        "href": "https://www.thgoplus.com.br/vendas-e-a-experiencia-do-cliente/#cmplz-cookies-overview"
+      },
+      {
+        "text": "Gerenciar {vendor_count} fornecedores",
+        "href": "https://www.thgoplus.com.br/vendas-e-a-experiencia-do-cliente/#cmplz-tcf-wrapper"
+      },
+      {
+        "text": "Leia mais sobre esses objetivos",
+        "href": "https://cookiedatabase.org/tcf/purposes/"
+      },
+      {
+        "text": "Ver preferências",
+        "href": "https://www.thgoplus.com.br/vendas-e-a-experiencia-do-cliente/#cmplz-manage-consent-container"
+      },
+      {
+        "text": "",
+        "href": "https://www.thgoplus.com.br/vendas-e-a-experiencia-do-cliente/"
+      },
+      {
+        "text": "Política Privacidade",
+        "href": "https://www.thgoplus.com.br/politica-privacidade/"
+      },
+      {
+        "text": "{title}",
+        "href": "https://www.thgoplus.com.br/contato/#"
+      },
+      {
+        "text": "",
+        "href": "https://www.thgoplus.com.br/"
+      },
+      {
+        "text": "Home",
+        "href": "https://www.thgoplus.com.br/"
+      },
+      {
+        "text": "Empresa",
+        "href": "https://www.thgoplus.com.br/a-empresa/"
+      },
+      {
+        "text": "Serviços",
+        "href": "https://www.thgoplus.com.br/servicos/"
+      },
+      {
+        "text": "Clientes",
+        "href": "https://www.thgoplus.com.br/clientes/"
+      },
+      {
+        "text": "Testemunhos",
+        "href": "https://www.thgoplus.com.br/testemunhos/"
+      },
+      {
+        "text": "Publicações",
+        "href": "https://www.thgoplus.com.br/contato/#"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.thgoplus.com.br/blog/"
+      },
+      {
+        "text": "Mídia",
+        "href": "https://www.thgoplus.com.br/midia/"
+      },
+      {
+        "text": "Palestras e Eventos",
+        "href": "https://www.thgoplus.com.br/palestras-e-eventos/"
+      },
+      {
+        "text": "Vagas",
+        "href": "https://www.thgoplus.com.br/vagas/"
+      },
+      {
+        "text": "Contato",
+        "href": "https://www.thgoplus.com.br/contato/"
+      },
+      {
+        "text": "Home",
+        "href": "https://www.thgoplus.com.br/"
+      },
+      {
+        "text": "Empresa",
+        "href": "https://www.thgoplus.com.br/a-empresa/"
+      },
+      {
+        "text": "Serviços",
+        "href": "https://www.thgoplus.com.br/servicos/"
+      },
+      {
+        "text": "Clientes",
+        "href": "https://www.thgoplus.com.br/clientes/"
+      },
+      {
+        "text": "Testemunhos",
+        "href": "https://www.thgoplus.com.br/testemunhos/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.thgoplus.com.br/blog/"
+      },
+      {
+        "text": "Mídia",
+        "href": "https://www.thgoplus.com.br/midia/"
+      },
+      {
+        "text": "Palestras e Eventos",
+        "href": "https://www.thgoplus.com.br/palestras-e-eventos/"
+      },
+      {
+        "text": "Vagas",
+        "href": "https://www.thgoplus.com.br/vagas/"
+      },
+      {
+        "text": "Contato",
+        "href": "https://www.thgoplus.com.br/contato/"
+      },
+      {
+        "text": "Termos de Uso",
+        "href": "https://www.thgoplus.com.br/termos-de-uso"
+      },
+      {
+        "text": "Política e Privacidade",
+        "href": "https://www.thgoplus.com.br/politica-privacidade"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/ThgoPlus/"
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/thgoplus/?viewAsMember=true"
+      },
+      {
+        "text": "",
+        "href": "https://www.thgoplus.com.br/blog/"
+      },
+      {
+        "text": "Termos de Uso",
+        "href": "https://www.thgoplus.com.br/termos-de-uso"
+      },
+      {
+        "text": "Política e Privacidade",
+        "href": "https://www.thgoplus.com.br/politica-privacidade"
+      },
+      {
+        "text": "Arte Caminatti",
+        "href": "http://www.artecarminatti.com.br/"
+      }
+    ],
+    "fields": [
+      {
+        "type": "checkbox",
+        "id": "cmplz-functional-optin",
+        "labels": [
+          "Funcional"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "id": "cmplz-preferences-optin",
+        "labels": [
+          "Preferências"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "id": "cmplz-statistics-optin",
+        "labels": [
+          "Estatísticas"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "id": "cmplz-marketing-optin",
+        "labels": [
+          "Marketing"
+        ]
+      },
+      {
+        "type": "text",
+        "id": "nf-field-5",
+        "labels": [
+          "Nome Completo *"
+        ]
+      },
+      {
+        "type": "email",
+        "id": "nf-field-6",
+        "labels": [
+          "E-mail *"
+        ]
+      },
+      {
+        "type": "tel",
+        "id": "nf-field-7",
+        "labels": [
+          "Telefone *"
+        ]
+      },
+      {
+        "type": "textarea",
+        "id": "nf-field-10",
+        "labels": [
+          "Sua mensagem"
+        ]
+      },
+      {
+        "type": "checkbox",
+        "id": "nf-field-27",
+        "labels": [
+          "Eu concordo com os Termos de Uso e Política e Privacidade declaro permitir o uso dos meus dados pelo departamento de marketing e comercial da THGO Plus *"
+        ]
+      },
+      {
+        "type": "submit",
+        "id": "nf-field-9",
+        "labels": []
+      },
+      {
+        "type": "text",
+        "id": "nf-field-hp-2",
+        "labels": [
+          "Se você for um humano, deixe este campo em branco."
+        ]
+      }
+    ]
+  },
+  "errors": []
+}

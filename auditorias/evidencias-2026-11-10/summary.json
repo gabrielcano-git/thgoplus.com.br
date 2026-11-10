@@ -1,0 +1,119 @@
+[
+  {
+    "page": "a-empresa",
+    "url": "https://www.thgoplus.com.br/a-empresa/",
+    "http": "200",
+    "h1": 1,
+    "description": false,
+    "main": false,
+    "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+    "localhost": [
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png",
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+    ]
+  },
+  {
+    "page": "blog",
+    "url": "https://www.thgoplus.com.br/blog/",
+    "http": "200",
+    "h1": 1,
+    "description": false,
+    "main": false,
+    "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+    "localhost": [
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png",
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+    ]
+  },
+  {
+    "page": "clientes",
+    "url": "https://www.thgoplus.com.br/clientes/",
+    "http": "200",
+    "h1": 1,
+    "description": false,
+    "main": false,
+    "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+    "localhost": [
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png",
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+    ]
+  },
+  {
+    "page": "contato",
+    "url": "https://www.thgoplus.com.br/contato/",
+    "http": "200",
+    "h1": 1,
+    "description": false,
+    "main": false,
+    "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+    "localhost": [
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png",
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+    ]
+  },
+  {
+    "page": "home",
+    "url": "https://www.thgoplus.com.br/",
+    "http": "200",
+    "h1": 0,
+    "description": false,
+    "main": false,
+    "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+    "localhost": [
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png",
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+    ]
+  },
+  {
+    "page": "politica-privacidade",
+    "url": "https://www.thgoplus.com.br/politica-privacidade/",
+    "http": "200",
+    "h1": 1,
+    "description": false,
+    "main": false,
+    "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+    "localhost": [
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png",
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+    ]
+  },
+  {
+    "page": "servicos",
+    "url": "https://www.thgoplus.com.br/servicos/",
+    "http": "200",
+    "h1": 1,
+    "description": false,
+    "main": false,
+    "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+    "localhost": [
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png",
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+    ]
+  },
+  {
+    "page": "termos-de-uso",
+    "url": "https://www.thgoplus.com.br/termos-de-uso/",
+    "http": "200",
+    "h1": 1,
+    "description": false,
+    "main": false,
+    "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+    "localhost": [
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png",
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+    ]
+  },
+  {
+    "page": "testemunhos",
+    "url": "https://www.thgoplus.com.br/testemunhos/",
+    "http": "200",
+    "h1": 1,
+    "description": false,
+    "main": false,
+    "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+    "localhost": [
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png",
+      "https://localhost/thgo-plus/wp-content/uploads/2019/02/favicon.png"
+    ]
+  }
+]
